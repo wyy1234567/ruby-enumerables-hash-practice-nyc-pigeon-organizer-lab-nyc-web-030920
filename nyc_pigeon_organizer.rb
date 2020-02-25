@@ -13,4 +13,5 @@ def nyc_pigeon_organizer(data)
           ans[name][key] = []
         end
         
+        ans[name][key].push(property.to_s)
 end
