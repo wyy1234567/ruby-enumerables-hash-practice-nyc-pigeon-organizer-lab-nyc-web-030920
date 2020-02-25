@@ -6,5 +6,6 @@ def nyc_pigeon_organizer(data)
       names.each do |name|
         
         if !ans[name]
-          ans[name] = property
+          ans[name] = {}
+          
 end
