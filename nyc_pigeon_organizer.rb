@@ -9,5 +9,5 @@ def nyc_pigeon_organizer(data)
           ans[name] = {}
         end
         
-        if ans[name][]
+        if !ans[name][]
 end
