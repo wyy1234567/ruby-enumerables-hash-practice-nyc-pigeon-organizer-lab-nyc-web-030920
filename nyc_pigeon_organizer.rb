@@ -10,5 +10,7 @@ def nyc_pigeon_organizer(data)
         end
         
         if !ans[name][key]
-          ans[name][key]
+          ans[name][key] = []
+        end
+        
 end
